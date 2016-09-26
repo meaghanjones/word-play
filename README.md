@@ -28,6 +28,7 @@ If you have any issues, questions, or suggestions for improvements please send a
 * html
 * css
 * JavaScript
+* jQuery
 
 ### License
 
